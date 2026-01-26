@@ -4,6 +4,12 @@ permalink: /coursework/
 author_profile: true
 ---
 
+## Spring 2026
+
+- **CS 152**: Computer Architecture and Engineering
+- **CS 186**: Database Systems
+- **CS 370**: Adaptive Instruction Methods in Computer Science
+
 ## Fall 2025
 
 - **CS 189**: Introduction to Machine Learning
