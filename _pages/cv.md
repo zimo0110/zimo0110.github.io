@@ -15,6 +15,12 @@ Education
 
 Work & Research Experience
 ======
+* **Software Engineer Intern, CoreOS — Apple** — San Diego, CA
+  * May 2026 – August 2026
+  * Built an agentic workflow connecting two dependent teams through an automated rapid integration-testing pipeline, cutting cross-team feature development cycles from months to days.
+  * Debugged issues in low-level macOS CoreOS system services in Objective-C, using platform debugging and instrumentation tooling to investigate the codebase and reproduce reported problems.
+  * Collaborated across teams to understand CoreOS component behavior and integrate the pipeline into existing development workflows.
+
 * **Undergraduate Research Assistant, Sky Lab** — UC Berkeley
   * July 2025 – Present.
   * Conducting research on multi-agent and AI systems, focusing on large language model function calling ability.
@@ -22,10 +28,15 @@ Work & Research Experience
   * Designed multimodal evaluation tasks and reasoning-trace datasets to stress-test model performance.
   * Exploring memory management for large ML systems, specifically policies to optimize KV-cache hit rates.
 
+* **Head TA, CS168 – Introduction to the Internet: Architecture and Protocols** — UC Berkeley EECS
+  * Fall 2026 – Present (Course Staff, Spring 2026)
+  * Lead the teaching staff: coordinate TAs, oversee course logistics, and guide content and assessment development.
+  * Teach weekly discussions and office hours on routing, reliable delivery, congestion control, and the core Internet protocols.
+
 * **Course Staff, CS161 – Computer Security** — UC Berkeley EECS
-  * Summer 2025 – Present
-  * Lead weekly discussions and office hours for 400+ students, covering memory safety, cryptographic protocols, and secure system design.
-  * Debug student code, review security implementations, and grade assignments.
+  * Summer 2025 – Fall 2025
+  * Led weekly discussions and office hours for 400+ students, covering memory safety, cryptographic protocols, and secure system design.
+  * Debugged student code, reviewed security implementations, and graded assignments.
 
 * **Software Engineer, Admittere – AI-Powered College Application Assistant** — Berkeley, CA
   * June 2025 – Present

@@ -4,6 +4,12 @@ permalink: /coursework/
 author_profile: true
 ---
 
+## Fall 2026
+
+- **CS 164**: Programming Languages and Compilers
+- **CS C182**: Designing, Visualizing and Understanding Deep Neural Networks
+- **CS 262A**: Advanced Topics in Computer Systems
+
 ## Spring 2026
 
 - **CS 152**: Computer Architecture and Engineering
